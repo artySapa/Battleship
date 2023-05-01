@@ -1,5 +1,7 @@
 # Battleship
 
+https://user-images.githubusercontent.com/118086930/235388734-0e9c1e71-02ef-4c9e-ba34-00e69fca2487.mp4
+
 ## **General Description** 
 Battleship game is a very famous game where there are two players trying to explode each other's battleship crew. Whoever destroy's all the ships first wins. 
 In my particular implementation, player can choose 3 options: 
